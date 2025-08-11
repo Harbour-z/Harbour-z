@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Harbour-zhang
 - 🌱 I’m currently learning Python,Fortran,C,Git
 - I'm studing in XJTU and majoring in Software Engineering.
-- 📫 How to reach me: 814287468@qq.com or zhangzhidong2004@gmail.com
+- 📫 How to reach me: zhidongzhang2004@qq.com or zhangzhidong2004@gmail.com
 
 <!---
 Harbour-z/Harbour-z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
